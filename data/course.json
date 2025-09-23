@@ -1,0 +1,64 @@
+{
+  "term": "Fall",
+  "year": "2007",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Environmental Management"
+    ],
+    [
+      "Business",
+      "Globalization"
+    ]
+  ],
+  "legacy_uid": "885097cb-caa9-7281-360d-0c6812ca75bf",
+  "instructors": {
+    "content": [
+      "95cfcb22-6e34-0f5e-6f0a-0947d35a8b07"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c9927fd8-385e-5be6-d750-38e76c7c6965",
+    "website": "17-441-international-politics-and-climate-change-fall-2007"
+  },
+  "course_title": "International Politics and Climate Change",
+  "course_description": "This course examines the interconnections of international politics and climate change. Beginning with an analysis of the strategic and environmental legacies of the 20th Century, it explores the politicization of the natural environment, the role of science in this process, and the gradual shifts in political concerns to incorporate \"nature\". Two general thrusts of climate-politics connections are pursued, namely those related to (a) conflict \u2013 focusing on threats to security due to environmental dislocations and (b) cooperation \u2013 focusing on the politics of international treaties that have contributed to emergent processes for global accord in response to evidence of climate change. The course concludes by addressing the question of: \"What Next?\"\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "17.442",
+  "primary_course_number": "17.441",
+  "course_image_thumbnail": {
+    "content": "232f3fd7-e1b0-40ca-03ae-32bb23da34f6",
+    "website": "17-441-international-politics-and-climate-change-fall-2007"
+  },
+  "learning_resource_types": [
+    "Exams",
+    "Written Assignments"
+  ],
+  "site_uid": "439aafbe-5967-4884-8790-bbed275e1811",
+  "site_short_id": "17.441-fall-2007",
+  "site_url_path": "courses/17-441-international-politics-and-climate-change-fall-2007",
+  "title": "Course Metadata"
+}
