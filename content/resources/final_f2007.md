@@ -8,6 +8,8 @@ description: Final take-home exam. There are 2 questions - one required (on evol
 file: /courses/17-441-international-politics-and-climate-change-fall-2007/8c2e3cd362f53a263be792096b9b610b_final_f2007.pdf
 file_size: 79578
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

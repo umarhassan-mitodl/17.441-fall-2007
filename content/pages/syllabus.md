@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   on course meeting times, prerequisites, required texts, readings, grading, written
   requirements, the mid-term exam, and the course calendar.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -27,7 +29,7 @@ There are no prerequisites for this course.
 Required Texts
 --------------
 
-{{% resource_link "8406026e-1a4a-464f-83cc-928d74399656" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Luterbacher, Urs, and Detlef F. Sprinz, eds. {{% resource_link "8406026e-1a4a-464f-83cc-928d74399656" "_International Relations and Global Climate Change_" %}}. Cambridge, MA: MIT Press, 2001. ISBN: 9780262621496.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621496) Luterbacher, Urs, and Detlef F. Sprinz, eds. [_International Relations and Global Climate Change_](https://mitpress.mit.edu/9780262621496). Cambridge, MA: MIT Press, 2001. ISBN: 9780262621496.
 
 McNeill, J. R. _Something New Under the Sun: An Environmental History of the Twentieth-century World_. New York, NY: W.W. Norton, 2000. ISBN: 9780393049176.
 
