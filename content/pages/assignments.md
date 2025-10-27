@@ -17,7 +17,7 @@ Due Ses #11
 
 The assignment is as follows:
 
-- First, please locate the [Global System for Sustainable Development](http://gssd.mit.edu/). Locate the U.S. site and familiarize yourself with the structure of the site.
+- First, please locate the {{% resource_link "d7fa775d-c6a4-441b-ac6a-64a4c23f1282" "Global System for Sustainable Development" %}}. Locate the U.S. site and familiarize yourself with the structure of the site.
 - Second, locate "Submit Site" and provide 5 specific items from the Internet to be added to the system's knowledge base. You must first identify the items you wish to add; then you provide the required information on the "Submit Site" form.
 
 This will represent your contribution to an evolving knowledge base.
